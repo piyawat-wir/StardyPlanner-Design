@@ -1,6 +1,6 @@
 # Stardy Planner
 
-A web application design for Software Engineering project. The purpose is to help manage schedule of a student by providing an friendly user interfaces and helpful tools.
+A web application design for an Software Engineering project. The goal is to make it easier for students to manage their schedules by offering user-friendly interfaces and practical tools, such to-do lists and grade calculators.
 
 ## Class Diagram
 
