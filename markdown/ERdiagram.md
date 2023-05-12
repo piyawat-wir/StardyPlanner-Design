@@ -1,3 +1,4 @@
 # Entity Relational Diagram
 
-![image](https://github.com/piyawat-wir/StardyPlanner-Design/assets/77828805/7914203a-863e-430a-a3b7-cb8d805d5c83)
+![image](https://github.com/piyawat-wir/StardyPlanner-Design/assets/77828805/04da67ce-2d50-43a5-a47e-d59586eddaa6)
+
