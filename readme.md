@@ -5,4 +5,4 @@ A web application design for an Software Engineering project. The goal is to mak
 ## Diagrams
 
 - [Class Diagram](/markdown/classDiagram.md)
-- ER Diagram
+- [ER Diagram](/markdown/ERdiagram.md)
