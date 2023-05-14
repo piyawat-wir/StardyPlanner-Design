@@ -1,6 +1,7 @@
 # Class Diagram
 
 ![SoftwareEn_ClassDiagram](https://user-images.githubusercontent.com/77828805/233421427-a35a554d-b354-43f3-ac6f-d8fc27488f3d.png)
+![image](https://github.com/piyawat-wir/StardyPlanner-Design/assets/77828805/7ccb6636-4f4f-47c9-8af7-eaf11a392286)
 
 ## Class properties & methods
 
